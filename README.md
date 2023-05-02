@@ -1,4 +1,4 @@
-# Analyzing School and Standarized Test Data
+# Analyzing School and Standarized test Data
 
 Utilizing Pandas DataFrames to analyze school and standardized test data
 
