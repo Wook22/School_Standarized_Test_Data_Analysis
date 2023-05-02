@@ -1,4 +1,5 @@
-# pandas-challenge
+# Analyzing school and standarized test data with Pandas library
+
 Utilizing Pandas DataFrames to analyze school and standardized test data
 
 ## Background
